@@ -6,23 +6,21 @@
 #### I'm a Full-Stack Developer based in working remotely.
 
 - 🏢 I'm currently working full-time with awesome **VinAudit, Inc** based in Washington, DC
-- ⚙️ Programming languages I can work with: `PHP`, `JavaScript`, `Python`, `Bash`, `HTML`, `CSS`, `SQL`
-- ⚙️ Frameworks and libararies I can work with: `Laravel`, `Lumen`, `Slim`, `Flask`, `BeautifulSoup`, `Scrapy`, `Bootstrap`, `jQuery`, `Smarty`, `Twig`, `Blade`
+- ⚙️ Programming languages: `PHP`, `JavaScript`, `Python`, `Bash`, `HTML`, `CSS`, `SQL`
+- ⚙️ Frameworks and libarariesh: `Laravel`, `Lumen`, `Slim`, `Flask`, `BeautifulSoup`, `Scrapy`, `Bootstrap`, `jQuery`, `Smarty`, `Twig`, `Blade`
 - ⚙️ Tools I use for data managment: `MySQL`, `MongoDB`, `Redis`, `Memcache`, `Sphinx`
 - ⚙️ I can also work with: `JSON`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick`, `Intervention` 
-- 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
-- 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
-- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
-- 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
-- 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
-- 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, 🐶 Kiki
-- 😄 Passionate about accessibility and committed to a web that works for everyone
+- 🌱 Learning more about and studying: **Open Source, Python, React**
+- 💬 Ping me about: **web design**, **social media**, **productivity**, **remote work**, **anything related to Vikings**
+- 📫 Reach me asap: <a href="https://twitter.com/sakytalks/">Twitter</a> or saqibrzzaq@gmail.com
+- 💜 Interests: YouTube, random funky videos, acting and song writing
+- 😄 Passionate about learning more about how brain works, understanding other humans and consuming stories
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a>
-- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/millyfeet">Spotify</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a>
-- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/millycodes/">Twitter</a>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/sakydev/">LinkedIn</a>
+- 🎧 Sharing my thoughts and ideas on <a href="https://www.youtube.com/c/sakytalks/">YouTube</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://sakytalks.bearblog.dev/">SakyTalks</a>
+- 🐦 Tweeting about productivity, memes and sharing tech tweets on <a href="https://twitter.com/sakytalks/">Twitter</a>
 
 ## 🔥 Streak stats
 
