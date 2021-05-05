@@ -3,10 +3,13 @@
 
 <!-- I'm Milly, a software engineer with experience in Ruby, Rails, JavaScript, React, MySQL and more. I've been working professionally for about 2 years but got my start back in days of MySpace and LiveJournal. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
 
-#### I'm a Full-Stack Developer based in Brooklyn, New York.
+#### I'm a Full-Stack Developer based in working remotely.
 
-- 🏢 I'm currently working full-time with awesome peeps at **Teladoc Health**
-- ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
+- 🏢 I'm currently working full-time with awesome **VinAudit, Inc** based in Washington, DC
+- ⚙️ Programming languages I can work with: `PHP`, `JavaScript`, `Python`, `Bash`, `HTML`, `CSS`, `SQL`
+- ⚙️ Frameworks and libararies I can work with: `Laravel`, `Lumen`, `Slim`, `Flask`, `BeautifulSoup`, `Scrapy`, `Bootstrap`, `jQuery`, `Smarty`, `Twig`, `Blade`
+- ⚙️ Tools I use for data managment: `MySQL`, `MongoDB`, `Redis`, `Memcache`, `Sphinx`
+- ⚙️ I can also work with: `JSON`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick`, `Intervention` 
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
