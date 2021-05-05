@@ -21,3 +21,7 @@
 - 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a>
 - 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/millycodes/">Twitter</a>
 
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sakydev" alt="Visitors">                     
+</p>
