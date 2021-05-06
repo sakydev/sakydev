@@ -17,7 +17,7 @@
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/sakydev/">LinkedIn</a>
 - 📹 Sharing my thoughts and ideas on <a href="https://www.youtube.com/c/sakytalks/">YouTube</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://sakytalks.bearblog.dev/">SakyTalks</a>
+- 🌐 Updating my personal website with examples of my work on <a href="http://www.sakytalks.com/">SakyTalks</a>
 - 🐦 Tweeting about productivity, memes and sharing tech tweets on <a href="https://twitter.com/sakytalks/">Twitter</a>
 
 ## 🔥 Streak stats
