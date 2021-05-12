@@ -5,7 +5,8 @@
 
 - 🏢 I'm currently working full-time with awesome **VinAudit, Inc** based in Washington, DC
 - ⚙️ Programming languages: `PHP`, `JavaScript`, `Python`, `Bash`, `HTML`, `CSS`, `SQL`
-- 📘 Frameworks and libararies: `Laravel`, `Lumen`, `Slim`, `Flask`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`, `Smarty`, `Twig`, `Blade`, `Jinja`
+- 📘 Frameworks and libararies: `Laravel`, `Lumen`, `Slim`, `Flask`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`
+- ⚙️ Templating Engines: `Smarty`, `Twig`, `Blade`, `Jinja`
 - 📊 Tools I use for data managment: `MySQL`, `MongoDB`, `Redis`, `Memcache`, `Sphinx`
 - 🔧 I can also work with: `JSON`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick`, `Intervention` 
 - 🌱 Learning more about and studying: **Open Source, Python, React**
