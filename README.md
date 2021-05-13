@@ -1,7 +1,7 @@
 ### Hi, I'm Saqib 👋
 ---
 
-#### I'm a Full-Stack Developer working remotely.
+#### I'm a Full-Stack Web Developer working remotely.
 
 - 🏢 I'm currently working full-time with awesome **VinAudit, Inc** based in Washington, DC
 - ⚙️ Programming languages: `PHP`, `JavaScript`, `Python`, `Bash`, `HTML`, `CSS`, `SQL`
