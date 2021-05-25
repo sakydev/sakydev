@@ -4,8 +4,8 @@
 #### I'm a Full-Stack Web Developer working remotely.
 
 - 🏢 I'm currently working full-time with awesome **VinAudit, Inc** based in Washington, DC
-- ⚙️ Programming languages: `PHP`, `JavaScript`, `Python`, `Bash`, `HTML`, `CSS`, `SQL`
-- 📘 Frameworks and libararies: `Laravel`, `Lumen`, `Slim`, `Flask`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`
+- ⚙️ Programming languages: `Python`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
+- 📘 Frameworks and libararies: `Django`, `Flask`, `Laravel`, `Lumen`, `Slim`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`
 - ⚙️ Templating Engines: `Smarty`, `Twig`, `Blade`, `Jinja`
 - 📊 Tools I use for data managment: `MySQL`, `MongoDB`, `Redis`, `Memcache`, `Sphinx`
 - 🔧 I can also work with: `JSON`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick`, `Intervention` 
