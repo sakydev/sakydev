@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Web Developer working remotely. [Read My Story](http://www.sakytalks.com/my-developer-story/) | [View Projects](http://www.sakytalks.com/projects/) |  [Blog](http://www.sakytalks.com/blog/) | [Download Resume](https://drive.google.com/file/d/1HiT6Ef_WTZPY0f4-bXzx0lCZ7aJJ72yS/view?usp=sharing)
 
-- 🏢 I'm currently working full-time with awesome **VinAudit, Inc** based in Washington, DC
+- 🏢 I'm currently working full-time with amazing **Virail GMBH** based in Berlin, Germany
 - ⚙️ Programming languages: `Python`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
 - 📘 Frameworks and libararies: `Flask`, `Laravel`, `Lumen`, `Slim`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`
 - ⚙️ Templating Engines: `Smarty`, `Twig`, `Blade`, `Jinja`
