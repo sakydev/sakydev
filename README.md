@@ -1,7 +1,7 @@
 ### Hi, I'm Saqib 👋
 ---
 
-#### I'm a Full-Stack Web Developer working remotely. [Read My Story](http://www.sakytalks.com/my-developer-story/) | [View Projects](http://www.sakytalks.com/projects/) |  [Blog](http://www.sakytalks.com/blog/) | [Download Resume](https://drive.google.com/file/d/1HiT6Ef_WTZPY0f4-bXzx0lCZ7aJJ72yS/view?usp=sharing)
+#### I'm a Full-Stack Web Developer working remotely. [Read My Story](http://sakycodes.com/about/) | [View Projects](http://sakycodes.com/projects/) |  [Blog](http://sakycodes.com/) | [Download Resume](https://drive.google.com/file/d/1HiT6Ef_WTZPY0f4-bXzx0lCZ7aJJ72yS/view?usp=sharing)
 
 - 🏢 I'm currently working full-time with amazing **Virail GMBH** based in Berlin, Germany
 - ⚙️ Programming languages: `Python`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
