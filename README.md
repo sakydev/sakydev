@@ -1,14 +1,14 @@
 ### Hi, I'm Saqib 👋
 ---
 
-#### I'm a Full-Stack Web Developer working remotely. [Read My Story](http://sakycodes.com/about/) | [View Projects](http://sakycodes.com/projects/) |  [Blog](http://sakycodes.com/) | [Download Resume](https://drive.google.com/file/d/1HiT6Ef_WTZPY0f4-bXzx0lCZ7aJJ72yS/view?usp=sharing)
+#### I'm a Full-Stack Web Developer working remotely. [Read My Story](http://sakycodes.com/about/) | [View Projects](http://sakycodes.com/projects/) |  [Website](http://sakycodes.com/) | [Download Resume](https://drive.google.com/file/d/1C_2Dx1JIiynBLdiJ5JCZ2PmD6GgswVKG/view)
 
 - 🏢 I'm currently working full-time with amazing **Virail GMBH** based in Berlin, Germany
 - ⚙️ Programming languages: `Python`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
-- 📘 Frameworks and libararies: `Flask`, `Laravel`, `Lumen`, `Slim`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`
+- 📘 Frameworks and libararies: `Flask`, `Laravel`, `Lumen`, `Slim`, `Faker`, `Yaml`, `DotENV`, `pRedis`, `pThreaded`, `Requests`, `Swagger`, `Monolog`, `PHPUnit`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`, `Vuepress`, `Cypress`
 - ⚙️ Templating Engines: `Smarty`, `Twig`, `Blade`, `Jinja`
 - 📊 Tools I use for data managment: `MySQL`, `MongoDB`, `Redis`, `Memcache`, `Sphinx`
-- 🔧 I can also work with: `Docker`, `Composer`, `PHPUnit`, `JSON`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick` 
+- 🔧 I can also work with: `Docker`, `Composer`, `PHPUnit`, `Kibana`, `Sentry`, `JSON`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick` 
 - 🌱 Learning more about and studying: **Open Source, Python, React**
 - 💬 Ping me about: **web design**, **social media**, **productivity**, **remote work**, **anything related to Vikings**
 - 📫 Reach me asap: <a href="https://twitter.com/sakytalks/">Twitter</a> or saqibrzzaq@gmail.com
