@@ -5,7 +5,8 @@
 
 - 🏢 I'm currently working full-time with amazing **Virail GMBH** based in Berlin, Germany
 - ⚙️ **Programming languages:** `Python`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
-- 📘 **Frameworks and libararies:** `Flask`, `Laravel`, `Lumen`, `Slim`, `Faker`, `Yaml`, `DotENV`, `pRedis`, `pThreaded`, `Requests`, `Swagger`, `Monolog`, `PHPUnit`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`, `Vuepress`, `Cypress`
+- 📘 **Frameworks and libararies:** 
+`Flask`, `Laravel`, `Lumen`, `Slim`, `Faker`, `Yaml`, `DotENV`, `pRedis`, `pThreaded`, `Requests`, `Swagger`, `Monolog`, `PHPUnit`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`, `Vuepress`, `Cypress`
 - ⚙️ **Templating Engines:** `Smarty`, `Twig`, `Blade`, `Jinja`
 - 📊 **Tools I use for data managment:** `MySQL`, `MongoDB`, `Redis`, `Memcache`, `Sphinx`
 - 🔧 **I can also work with:** `Docker`, `Composer`, `PHPUnit`, `Kibana`, `Sentry`, `JSON`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick` 
