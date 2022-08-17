@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Web Developer working remotely. [Read My Story](http://sakycodes.com/about/) | [View Projects](http://sakycodes.com/projects/) |  [Website](http://sakycodes.com/) | [Download Resume](https://drive.google.com/file/d/1C_2Dx1JIiynBLdiJ5JCZ2PmD6GgswVKG/view)
 
-- 🏢 I'm currently working full-time with amazing **Virail GMBH** based in Berlin, Germany
+- 🏢 I'm currently working full-time with amazing **PlanA.Earth GMBH** based in Berlin, Germany
 - ⚙️ **Programming languages:** `Python`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
 - 📘 **Frameworks and libararies:**   
 `Flask`, `Laravel`, `Lumen`, `Slim`, `Faker`, `Yaml`, `DotENV`, `pRedis`, `pThreaded`, `Requests`, `Swagger`, `Monolog`, `PHPUnit`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`, `Vuepress`, `Cypress`
