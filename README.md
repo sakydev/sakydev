@@ -12,7 +12,7 @@
 - 🔧 **I can also work with:** `Docker`, `Composer`, `PHPUnit`, `Kibana`, `Sentry`, `JSON`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick` 
 - 🌱 Learning more about and studying: **Open Source, Python, React**
 - 💬 Ping me about: **web design**, **social media**, **productivity**, **remote work**, **anything related to Vikings**
-- 📫 Reach me asap: <a href="https://twitter.com/sakytalks/">Twitter</a> or saqibrzzaq@gmail.com
+- 📫 Reach me asap: saqibrzzaq@gmail.com
 - 💜 Interests: YouTube, random funky videos, acting and song writing
 - 😄 Passionate about learning more about how brain works, understanding other humans and consuming stories
 
