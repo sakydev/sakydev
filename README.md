@@ -1,7 +1,7 @@
 ### Hi, I'm Saqib 👋
 ---
 
-#### I'm a Full-Stack Web Developer working remotely. [Read My Story](http://sakycodes.com/about/) | [View Projects](http://sakycodes.com/projects/) |  [Website](http://sakycodes.com/) | [Download Resume](https://drive.google.com/file/d/1C_2Dx1JIiynBLdiJ5JCZ2PmD6GgswVKG/view)
+#### I'm a Full-Stack Web Developer working remotely.[View Projects](http://sakycodes.com/projects/) |  [Website](https://www.sakybroods.com/) | [Download Resume](https://drive.google.com/file/d/1C_2Dx1JIiynBLdiJ5JCZ2PmD6GgswVKG/view)
 
 - 🏢 I'm currently working full-time with amazing **PlanA.Earth GMBH** based in Berlin, Germany
 - ⚙️ **Languages:** `Python`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
@@ -18,8 +18,7 @@
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/sakydev/">LinkedIn</a>
-- 🌐 Updating my personal website with examples of my work on <a href="http://www.sakytalks.com/">SakyTalks</a>
-- 🐦 Tweeting about productivity, memes and sharing tech tweets on <a href="https://twitter.com/sakytalks/">Twitter</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://www.sakybroods.com/">SakyBroods</a>
 
 ## 🔥 Streak stats
 
