@@ -18,7 +18,8 @@
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/sakydev/">LinkedIn</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://www.sakybroods.com/">SakyBroods</a>
+- 🌐 Projects and other work details <a href="https://saky.me/">saky.me</a>
+- 🌐 Writing stories and sharing thoughts at <a href="https://www.sakybroods.com/">SakyBroods</a>
 
 ## 🔥 Streak stats
 
