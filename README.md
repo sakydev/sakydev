@@ -4,37 +4,10 @@ A Software Engineer with ~9 years of experience building backend web solutions, 
 ---
 
 ### Things I work with
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![Phalcon](https://img.shields.io/badge/-Phalcon-4F5B93?logo=phalcon&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white)
-![Chi](https://img.shields.io/badge/-Chi-02A9E0?logo=go&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-2C2D72?logo=scrapy&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Sphinx](https://img.shields.io/badge/-Sphinx-531B93?logo=sphinx&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-aws&logoColor=white)
-![BackBlaze](https://img.shields.io/badge/-BackBlaze-0052CC?logo=backblaze&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-569A31?logo=amazon-aws&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/-PHPUnit-2C2D72?logo=phpunit&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-![FFMPEG](https://img.shields.io/badge/-FFMPEG-007ACC?logo=ffmpeg&logoColor=white)
-![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white)
-![Cobra](https://img.shields.io/badge/-Cobra-00ADD8?logo=go&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+| Languages   | Frameworks   | Data Management | Other Technologies |
+|-------------|--------------|-----------------|--------------------|
+| ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Phalcon](https://img.shields.io/badge/-Phalcon-4F5B93?logo=phalcon&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white) ![Chi](https://img.shields.io/badge/-Chi-02A9E0?logo=go&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-2C2D72?logo=scrapy&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Sphinx](https://img.shields.io/badge/-Sphinx-531B93?logo=sphinx&logoColor=white) | ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-aws&logoColor=white) ![BackBlaze](https://img.shields.io/badge/-BackBlaze-0052CC?logo=backblaze&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-569A31?logo=amazon-aws&logoColor=white) ![PHPUnit](https://img.shields.io/badge/-PHPUnit-2C2D72?logo=phpunit&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) ![FFMPEG](https://img.shields.io/badge/-FFMPEG-007ACC?logo=ffmpeg&logoColor=white) ![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white) ![Cobra](https://img.shields.io/badge/-Cobra-00ADD8?logo=go&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black) |
+
 
 ### Where to connect
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
