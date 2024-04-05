@@ -1,15 +1,15 @@
 ### Hi, I'm Saqib 👋
 ---
 
-#### I'm a Full-Stack Web Developer working remotely. [View Projects](http://sakycodes.com/projects/) |  [Website](https://www.sakybroods.com/) | [Download Resume](https://drive.google.com/file/d/1C_2Dx1JIiynBLdiJ5JCZ2PmD6GgswVKG/view)
+#### I'm a Full-Stack Web Developer working remotely. [View Projects]([http://sakycodes.com/projects/](https://saky.me/#projects)) |  [Website](https://saky.me/) | [Download Resume]([https://drive.google.com/file/d/1C_2Dx1JIiynBLdiJ5JCZ2PmD6GgswVKG/view](https://drive.google.com/file/d/10Mp0clS6OtU9yWIPjbNcZVEgSAphOLde/view?usp=sharing))
 
-- 🏢 I'm currently working full-time with amazing **PlanA.Earth GMBH** based in Berlin, Germany
-- ⚙️ **Languages:** `Python`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
+- 🏢 I'm currently working full-time with amazing **KnowUnity GMBH** based in Berlin, Germany
+- ⚙️ **Languages:** `Python`, `GO`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
 - 📘 **Frameworks and libararies:**   
-`Flask`, `Laravel`, `Lumen`, `Slim`, `Faker`, `Yaml`, `DotENV`, `pRedis`, `pThreaded`, `Requests`, `Swagger`, `Monolog`, `PHPUnit`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`, `Vuepress`, `Cypress`
+`Flask`, `Laravel`, `Lumen`, `Chi`, `Slim`, `Faker`, `Yaml`, `DotENV`, `pRedis`, `pThreaded`, `Requests`, `Swagger`, `Monolog`, `PHPUnit`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`, `Vuepress`, `Cypress`
 - ⚙️ **Templating Engines:** `Smarty`, `Twig`, `Blade`, `Jinja`
 - 📊 **Tools I use for data managment:** `MySQL`, `MongoDB`, `Redis`, `Memcache`, `Sphinx`
-- 🔧 **I can also work with:** `Docker`, `Composer`, `PHPUnit`, `Kibana`, `Sentry`, `JSON`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick` 
+- 🔧 **I can also work with:** `Docker`, `Composer`, `PHPUnit`, `Kibana`, `Sentry`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick` 
 - 🌱 Learning more about and studying: **Open Source, Python, React**
 - 💬 Ping me about: **web design**, **social media**, **productivity**, **remote work**, **anything related to Vikings**
 - 📫 Reach me asap: saqibrzzaq@gmail.com
