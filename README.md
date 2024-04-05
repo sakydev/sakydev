@@ -46,12 +46,13 @@ A Software Engineer with ~9 years of experience building backend web solutions, 
 ### Projects
 | Year | Name          | Description                                   | Technologies                                                     | Details          |
 | ---- | ------------- | --------------------------------------------- | ---------------------------------------------------------------- | ---------------- |
-| 2024 | BlackWings    | TDO                                           | Go, Chi, Postgres, Cobra                                        | [Link/Breakdown] |
+| 2024 | BlackWings    | TDO                                           | Go, Chi, Postgres, Cobra, Docker                                       | [Link/Breakdown] |
+| 2024 | StudyRooms    | TDO                                           | Go, Chi, Postgres, AWS SQS, Websockets, Goroutines, Grafana Docker              | [Link/Breakdown] |
 | 2024 | BoringCMS     | TDO                                           | PHP, Laravel, Postgres, Docker                                   | [Link/Breakdown] |
-| 2023 | SmartExcel    | TDO                                           | PHP, Laravel, Docker, PhpSpreadsheet                             | [Link/Breakdown] |
+| 2023 | SmartExcel    | TDO                                           | PHP, Laravel, Docker, PhpSpreadsheet, Docker                             | [Link/Breakdown] |
 | 2023 | MindFeed      | TDO                                           | PHP, Laravel, Blade, Bootstrap, YouTube API                      | [Link/Breakdown] |
-| 2022 | AnnualESG     | TDO                                           | PHP, MySQL, Laravel, Docker, Blade, ConvertAPI                   | [Link/Breakdown] |
-| 2022 | Virail Search | TDO                                           | PHP, PostgresSQL, Phalcon, Docker, Elastic Search, VueJS, Cypress, Scrapy | [Link/Breakdown] |
+| 2022 | AnnualESG     | TDO                                           | PHP, MySQL, Laravel, Docker, Blade, ConvertAPI, Docker                   | [Link/Breakdown] |
+| 2022 | Virail Search | TDO                                           | PHP, PostgresSQL, Phalcon, Elastic Search, VueJS, Cypress, Scrapy, Docker | [Link/Breakdown] |
 | 2022 | HoneyResume   | TDO                                           | PHP, MySQL, Laravel, Blade, Bootstrap, Python, Selenium, Scrapy | [Link/Breakdown] |
 | 2019 | BriskLimbs    | TDO                                           | PHP, MySQL, Twig, jQuery, FFMPEG, MP4Box, Bootstrap             | [Link/Breakdown] |
 | 2019 | MLSData       | TDO                                           | Python, Scrapy, Selenium, PHP, Slim, MySQL, jQuery               | [Link/Breakdown] |
