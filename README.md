@@ -1,25 +1,70 @@
 ### Hi, I'm Saqib 👋
+A Software Engineer with ~9 years of experience building backend web solutions living in **Berlin, Germany**
+
 ---
 
-#### I'm a Full-Stack Web Developer working remotely. [View Projects](https://saky.me/#projects) |  [Website](https://saky.me/) | [Download Resume](https://drive.google.com/file/d/1EEM-fZW0IhOLclWxI-QBZh27FbiTqAw9/view?usp=sharing)
+### Things I work with
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Phalcon](https://img.shields.io/badge/-Phalcon-4F5B93?logo=phalcon&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white)
+![Chi](https://img.shields.io/badge/-Chi-02A9E0?logo=go&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-2C2D72?logo=scrapy&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Sphinx](https://img.shields.io/badge/-Sphinx-531B93?logo=sphinx&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-aws&logoColor=white)
+![BackBlaze](https://img.shields.io/badge/-BackBlaze-0052CC?logo=backblaze&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-569A31?logo=amazon-aws&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-2C2D72?logo=phpunit&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+![FFMPEG](https://img.shields.io/badge/-FFMPEG-007ACC?logo=ffmpeg&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white)
+![Cobra](https://img.shields.io/badge/-Cobra-00ADD8?logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 
-- 🏢 I'm currently working full-time with **KnowUnity GMBH** based in Berlin, Germany
-- ⚙️ **Languages:** `Python`, `GO`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
-- 📘 **Frameworks and libararies:**   
-`Flask`, `Laravel`, `Lumen`, `Chi`, `Slim`, `Faker`, `Yaml`, `DotENV`, `pRedis`, `pThreaded`, `Requests`, `Swagger`, `Monolog`, `PHPUnit`, `BeautifulSoup`, `Selenium`, `Scrapy`, `Bootstrap`, `jQuery`, `Vuepress`, `Cypress`
-- ⚙️ **Templating Engines:** `Smarty`, `Twig`, `Blade`, `Jinja`
-- 📊 **Tools I use for data managment:** `MySQL`, `MongoDB`, `Redis`, `Memcache`, `Sphinx`
-- 🔧 **I can also work with:** `Docker`, `Composer`, `PHPUnit`, `Kibana`, `Sentry`, `FFMPEG`, `AJAX`, `FFPROBE`, `Mencoder`, `MP4Box`, `ImageMagick` 
-- 🌱 Learning more about and studying: **Open Source, Python, React**
-- 💬 Ping me about: **web design**, **social media**, **productivity**, **remote work**, **anything related to Vikings**
-- 📫 Reach me asap: saqibrzzaq@gmail.com
-- 💜 Interests: YouTube, random funky videos, acting and song writing
-- 😄 Passionate about learning more about how brain works, understanding other humans and consuming stories
+### Where to connect
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
+![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4F0599?logo=react&logoColor=white)](https://saky.me/)
 
-#### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/sakydev/">LinkedIn</a>
-- 🌐 Projects and other work details <a href="https://saky.me/">saky.me</a>
-- 🌐 Writing stories and sharing thoughts at <a href="https://www.sakybroods.com/">SakyBroods</a>
+### Projects
+| Year | Name          | Description                                   | Technologies                                                     | Details          |
+| ---- | ------------- | --------------------------------------------- | ---------------------------------------------------------------- | ---------------- |
+| 2024 | BlackWings    | TDO                                           | Go, Chi, Postgres, Cobra                                        | [Link/Breakdown] |
+| 2024 | BoringCMS     | TDO                                           | PHP, Laravel, Postgres, Docker                                   | [Link/Breakdown] |
+| 2023 | SmartExcel    | TDO                                           | PHP, Laravel, Docker, PhpSpreadsheet                             | [Link/Breakdown] |
+| 2023 | MindFeed      | TDO                                           | PHP, Laravel, Blade, Bootstrap, YouTube API                      | [Link/Breakdown] |
+| 2022 | AnnualESG     | TDO                                           | PHP, MySQL, Laravel, Docker, Blade, ConvertAPI                   | [Link/Breakdown] |
+| 2022 | Virail Search | TDO                                           | PHP, PostgresSQL, Phalcon, Docker, Elastic Search, VueJS, Cypress, Scrapy | [Link/Breakdown] |
+| 2022 | HoneyResume   | TDO                                           | PHP, MySQL, Laravel, Blade, Bootstrap, Python, Selenium, Scrapy | [Link/Breakdown] |
+| 2019 | BriskLimbs    | TDO                                           | PHP, MySQL, Twig, jQuery, FFMPEG, MP4Box, Bootstrap             | [Link/Breakdown] |
+| 2019 | MLSData       | TDO                                           | Python, Scrapy, Selenium, PHP, Slim, MySQL, jQuery               | [Link/Breakdown] |
+| 2018 | ImgDaemon     | TDO                                           | PHP, Slim, pThreaded, cURL, Tailwind, ImageMagick, BackBlaze, S3 | [Link/Breakdown] |
+| 2017 | ImportDash    | TDO                                           | Python, Flask                                                    | [Link/Breakdown] |
+| 2016 | PostPlan      | TDO                                           | Python, Flask, Selenium, Social APIs                             | [Link/Breakdown] |
+| 2016 | ClipPress     | TDO                                           | PHP, MySQL                                                       | [Link/Breakdown] |
+| 2015 | ClipBucket    | TDO                                           | PHP, MySQL, Smarty, jQuery, Bootstrap, FFMPEG, Google, LinkedIn, Facebook APIs | [Link/Breakdown] |
+
+
+
+
+
 
 ## 🔥 Streak stats
 
