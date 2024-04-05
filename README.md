@@ -1,7 +1,7 @@
 ### Hi, I'm Saqib 👋
 ---
 
-#### I'm a Full-Stack Web Developer working remotely. [View Projects]([http://sakycodes.com/projects/](https://saky.me/#projects)) |  [Website](https://saky.me/) | [Download Resume]([https://drive.google.com/file/d/1C_2Dx1JIiynBLdiJ5JCZ2PmD6GgswVKG/view](https://drive.google.com/file/d/10Mp0clS6OtU9yWIPjbNcZVEgSAphOLde/view?usp=sharing))
+#### I'm a Full-Stack Web Developer working remotely. [View Projects](https://saky.me/#projects) |  [Website](https://saky.me/) | [Download Resume](https://drive.google.com/file/d/10Mp0clS6OtU9yWIPjbNcZVEgSAphOLde/view?usp=sharing)
 
 - 🏢 I'm currently working full-time with amazing **KnowUnity GMBH** based in Berlin, Germany
 - ⚙️ **Languages:** `Python`, `GO`, `PHP`, `JavaScript`, `Bash`, `HTML`, `CSS`, `SQL`
