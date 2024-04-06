@@ -10,7 +10,7 @@ A Software Engineer with ~9 years of experience building backend web solutions, 
 
 
 ### Where to connect
-[![Resume](https://img.shields.io/badge/-Resume-blue?logo=googledrive&logoColor=white)]([https://your-resume-link.com](https://drive.google.com/file/d/1EEM-fZW0IhOLclWxI-QBZh27FbiTqAw9/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/-Resume-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1EEM-fZW0IhOLclWxI-QBZh27FbiTqAw9/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sakydev)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/SaqibQX)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakydev)
