@@ -1,4 +1,4 @@
-# Project: BlackWings
+# Project: [BlackWings](https://github.com/sakydev/blackwings)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Chi](https://img.shields.io/badge/Chi-02A9E0?logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Cobra](https://img.shields.io/badge/Cobra-02A9E0?logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 
