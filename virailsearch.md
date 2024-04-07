@@ -3,10 +3,18 @@
 
 
 ### What
-X
-
-### Why
-X
+A travel route planning service, spanning across regions including Europe, UK, US, Russia, India, and more. The app integrates with dozens of partner APIs to recommend the fastest routes and affordable accommodations.	I helped extract monolithic app into multiple microservices for easier development and onboarding. 
 
 ### How
-X
+The original app was built in Phalcon framework. There had been layers and layers of legacy code. API versions one after another and classes jumbled together with weird combinations. Even though it worked, codebase had become unmaintainable and hard to debug. 
+
+I devised a microservice architecture. The monolith was divided into three separate layers. These were built on Laravel and Scrapy with RabbitMQ as a communication bridge. 
+
+**Search**  
+I implemented Laravel for core search API which was responsible for answering to millions of user calls. The search service relied on data and crawling services. 
+
+**Data**  
+It took a search query (from and to) and split it into all different possible combinations. Then devised what resources should be crawled based on internal formulas. 
+
+**Crawl**  
+Scrapy-powered service responsible for pulling data from 50+ sources including API partners and web scrapping. 
