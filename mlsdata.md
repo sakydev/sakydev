@@ -1,6 +1,12 @@
 # Project MLSData
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-1A1A1A?logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Slim](https://img.shields.io/badge/Slim-4584B6?logo=slim&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 
+Homepage
+![Homepage](mlsdata-home.png)
+
+One of algorithm pages
+![Homepage](mlsdata-algo.png)
+
 ### What
 A sophisticated system designed to efficiently crawl rental property data from diverse online sources. Utilizing advanced algorithms, it programmatically analyzes this data to provide tailored investment recommendations. The system boasts a user-friendly interface with customizable algorithms, allowing users to fine-tune their investment strategies according to their unique preferences and goals
 
