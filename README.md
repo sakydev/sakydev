@@ -38,16 +38,3 @@ A Software Engineer with ~9 years of experience building backend web solutions, 
 | ImgDaemon                                            | A multi-threaded distributed system for downloading, processing, and backing up millions of vehicle images on daily basis | PHP, Slim, pThreaded, cURL, Tailwind, ImageMagick, BackBlaze, S3 | [Details](https://github.com/sakydev/sakydev/blob/main/imgdaemon.md)    |
 | ImportDash                                           | A system to collect and dynamically process accident records from dozens of US states and organize data in a dashboard | Python, Flask, CSV, TXT, XLS, FTP                                                    | [Details](https://github.com/sakydev/sakydev/blob/main/importdash.md)   |
 | [ClipBucket](https://github.com/arslancb/clipbucket) | A video management and sharing application to setup your own video sharing site allowing users to upload, share, comment and create playlists. | PHP, MySQL, Smarty, jQuery, Bootstrap, FFMPEG, Google, LinkedIn, Facebook APIs | [Details](https://github.com/sakydev/sakydev/blob/main/clipbucket.md)   |
-
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sakydev&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
