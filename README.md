@@ -1,5 +1,5 @@
 ### Hi, I'm Saqib 👋
-A Software Engineer with ~9 years of experience building backend web solutions, currently living in **Berlin, Germany**
+A Software Engineer with 10 years of experience building backend web solutions, currently living in **Berlin, Germany**
 
 ---
 
