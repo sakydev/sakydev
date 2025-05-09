@@ -16,17 +16,14 @@ A Software Engineer with 10 years of experience building backend web solutions, 
 | **Testing & Development Tools** | ![PHPUnit](https://img.shields.io/badge/-PHPUnit-2C2D72?logo=phpunit&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) ![FFMPEG](https://img.shields.io/badge/-FFMPEG-007ACC?logo=ffmpeg&logoColor=white) ![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white) ![Cobra](https://img.shields.io/badge/-Cobra-00ADD8?logo=go&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black) ![PHPStan](https://img.shields.io/badge/-PHPStan-05388A?logo=php&logoColor=white) ![CSFixer](https://img.shields.io/badge/-CSFixer-42B883?logo=php&logoColor=white) |
 
 
-### Where to connect
+### Useful links
 [![Resume](https://img.shields.io/badge/-Resume-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1K4ONA0Gcoew070DMnO7ZEpsqKXL0QL6T/view?usp=sharing)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sakydev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/SaqibQX)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakydev)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saqibqx)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4F0599?logo=react&logoColor=white)](https://saky.me/)
 
 ### Noteworthy Projects
 | Name                                                 | Description                                   | Technologies                                                     | Details                                                                 |
 |------------------------------------------------------|-----------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------|
+| [Fluxton](https://github.com/fluxton-io/fluxton)  | Full fledged backend as a service (BaaS) like Firebase/Supabase | Go, Echo, Postgres, Cobra, Docker, PostGREST, AWS, Traefik                                       | [Details](https://github.com/sakydev/sakydev/blob/main/fluxton.md)   |
 | [BlackWings](https://github.com/sakydev/blackwings)  | One CLI to search across your entire digital footprint | Go, Chi, Postgres, Cobra, Docker                                       | [Details](https://github.com/sakydev/sakydev/blob/main/blackwings.md)   |
 | [StudyRooms](https://knowunity.com/about/download)                                           | Pomodor styled real-time focus chat rooms with rich customizability options | Go, Chi, Postgres, AWS SQS, Websockets, Goroutines, Grafana, Sentry, Docker              | [Details](https://github.com/sakydev/sakydev/blob/main/studyrooms.md)   |
 | [BoringCMS](https://github.com/sakydev/BoringCMS)    | Headless CMS to seamlessly integrate into Laravel applications | PHP, Laravel, Postgres, Docker                                   | [Details](https://github.com/sakydev/sakydev/blob/main/boringcms.md)    |
