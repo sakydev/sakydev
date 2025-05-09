@@ -17,7 +17,7 @@ A Software Engineer with 10 years of experience building backend web solutions, 
 
 
 ### Useful links
-[![Resume](https://img.shields.io/badge/-Resume-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1K4ONA0Gcoew070DMnO7ZEpsqKXL0QL6T/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1lJZsiDmqBAkYHVDIgHvoMgZSGnoNt272/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakydev)
 
 ### Noteworthy Projects
