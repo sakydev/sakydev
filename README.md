@@ -1,6 +1,6 @@
 ### Hi, I'm Saqib
 
-Senior Software Engineer, ten years in. Go, PHP, AWS, and more. I build the systems that move data between services and don't fall over. Based in Berlin.
+Senior Software Engineer, ten years in. Go, PHP, AWS, and more. I build the systems that move data between services and don't fall over. Based in Berlin, Germany 🇩🇪.
 
 Currently building [Fluxend](https://github.com/fluxendd/fluxend), an open-source Firebase/Supabase alternative.
 
@@ -8,15 +8,15 @@ Currently building [Fluxend](https://github.com/fluxendd/fluxend), an open-sourc
 
 ### What I've built
 
-**[Fluxend](https://github.com/fluxendd/fluxend)**. A self-hosted backend-as-a-service platform, like Firebase or Supabase. Go, Echo, Postgres, PostgREST, Docker, Traefik.
+**[Fluxend](https://github.com/fluxendd/fluxend)**: A self-hosted backend-as-a-service platform, like Firebase or Supabase. Go, Echo, Postgres, PostgREST, Docker, Traefik.
 
-**[Virail Search](https://www.virail.com/)**. Travel route planning serving Europe, UK, US, Russia and India. Integrates dozens of partner APIs to surface fastest routes and cheapest fares. PHP, Phalcon, Elasticsearch, Scrapy.
+**[Virail Search](https://www.virail.com/)**: Travel route planning serving Europe, UK, US, Russia and India. Integrates dozens of partner APIs to surface fastest routes and cheapest fares. PHP, Phalcon, Elasticsearch, Scrapy.
 
-**[StudyRooms](https://knowunity.com/about/download)** (Knowunity). Real-time focus rooms with Pomodoro-style session tracking. Built on websockets and goroutines. Go, Chi, Postgres, AWS SQS, Grafana.
+**[StudyRooms](https://knowunity.com/about/download)** (Knowunity): Real-time focus rooms with Pomodoro-style session tracking. Built on websockets and goroutines. Go, Chi, Postgres, AWS SQS, Grafana.
 
-**[BlackWings](https://github.com/sakydev/blackwings)**. A CLI to search across your entire digital footprint in one query. Go, Chi, Postgres, Cobra.
+**[BlackWings](https://github.com/sakydev/blackwings)**: A CLI to search across your entire digital footprint in one query. Go, Chi, Postgres, Cobra.
 
-**[BoringCMS](https://github.com/sakydev/BoringCMS)**. A headless CMS built to drop straight into Laravel apps. PHP, Laravel, Postgres.
+**[BoringCMS](https://github.com/sakydev/BoringCMS)**: A headless CMS built to drop straight into Laravel apps. PHP, Laravel, Postgres.
 
 More in the [project archive](#older-projects) below.
 
