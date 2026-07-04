@@ -24,10 +24,7 @@ More in the [project archive](#older-projects) below.
 
 ### Stack
 
-**Languages** — Go, PHP, Python, JavaScript, SQL, Bash
-**Backend** — Laravel, Phalcon, Chi, Echo, Bref
-**Data** — PostgreSQL, MySQL, Redis, DynamoDB
-**Infra** — AWS (Lambda, S3, SQS, SES), Docker, Terraform
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Echo](https://img.shields.io/badge/-Echo-00ADD8?logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
 
 ---
 
