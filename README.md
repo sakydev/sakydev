@@ -1,6 +1,6 @@
 ### Hi, I'm Saqib
 
-Backend engineer, 10 years in. Mostly Go and PHP. Mostly systems that move data between services reliably. Based in Berlin.
+Senior Software Engineer, ten years in. Go, PHP, AWS, and more. I build the systems that move data between services and don't fall over. Based in Berlin.
 
 Currently building [Fluxend](https://github.com/fluxendd/fluxend), an open-source Firebase/Supabase alternative.
 
